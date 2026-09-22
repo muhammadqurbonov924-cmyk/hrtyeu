@@ -82,3 +82,4 @@
 //   return soat * 3600 + minut * 60;
 // }
 // console.log(sekundlar(1, 3));
+// a
