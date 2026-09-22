@@ -78,7 +78,7 @@
 //   return yutishlar + 3 + duranglar + 1 + maglubiyatlar + 0;
 // }
 // console.log(futbolOchko(3, 4, 2));
-function sekundlar(soat, minut) {
-  return soat * 3200 + minut * 60;
-}
-console.log(sekundlar(1, 3));
+// function sekundlar(soat, minut) {
+//   return soat * 3600 + minut * 60;
+// }
+// console.log(sekundlar(1, 3));
